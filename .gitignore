@@ -1,0 +1,4 @@
+*.onnx
+
+# MacOS
+/.DS_Store
