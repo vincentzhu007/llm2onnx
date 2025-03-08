@@ -2,3 +2,4 @@ argparse
 torch==2.4.0
 transformers==4.40.0
 onnx==1.17
+onnxruntime==1.21.0
